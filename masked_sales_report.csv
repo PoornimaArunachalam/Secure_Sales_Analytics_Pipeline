@@ -1,0 +1,6 @@
+customer_id,customer_name,email,phone,city,region,product,amount
+1,A****,a****@gmail.com,XXXXXX3210,Chennai,South,Laptop,55000
+5,K****,k****@gmail.com,XXXXXX3214,Madurai,South,Headphones,3000
+6,D****,d****@gmail.com,XXXXXX3215,Coimbatore,South,Mobile,22000
+8,A****,a****@gmail.com,XXXXXX3217,Bangalore,South,Laptop,72000
+10,M****,m****@gmail.com,XXXXXX3219,Hyderabad,South,Headphones,4000
